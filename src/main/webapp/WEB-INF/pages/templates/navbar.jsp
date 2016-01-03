@@ -5,6 +5,9 @@
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                 <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
             </button>
             <a class="pull-left" href="<c:url value="/"/>">
                 <img src="<c:url value="/resources/images/logo.png"/>" style="max-height: 30px;  margin-top: 10px; margin-right: 5px;"/>
